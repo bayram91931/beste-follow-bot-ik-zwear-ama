@@ -1,7 +1,7 @@
 {
-    "name": "ElmosBot",
+    "name": "TFO",
     "language": "javascript",
     "manager": "npm",
-    "token": "ODIwMTAzNTMwNzA5Nzc4NDMy.YEwS7g.wyqbtOLtZC4UI1YO_LzD8BV1kDU",
-    "prefix": ".t"
+    "token": "ODI2NzQwODAyNzcyNDAyMTc2.YGQ4Xw.Qi65-sWgaKKNdo_Q5PgpkN5QhAE",
+    "prefix": "/"
 }
