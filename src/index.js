@@ -11,6 +11,6 @@ const client = new Client();
   await registerEvents(client, '../events');
   await client.login(config.token);
 
-client.user.setPresence({ activity: { name: `V 2.4` , type: 'WATCHING'}, status: 'DND'})
+client.user.setPresence({ activity: { name: `V 2.5` , type: 'WATCcHING'}, status: 'DND'})
 
 })();

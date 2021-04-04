@@ -27,7 +27,7 @@ module.exports = class FollowCommand extends BaseCommand {
 				  }});
             }
 
-			if (message.member.roles.cache.has('827259214363492404')) {
+			if (message.member.roles.cache.has('827592640509378570')) {
                 if (args[1] > 17500) {
 				return message.channel.send({embed: {
 					color: 16776960,
@@ -36,7 +36,7 @@ module.exports = class FollowCommand extends BaseCommand {
             }};
 
 
-			if (message.member.roles.cache.has('826771025571479563')) {
+			if (message.member.roles.cache.has('827592691213795340')) {
                 if (args[1] > 12500) {
 				return message.channel.send({embed: {
 					color: 16776960,
@@ -55,7 +55,7 @@ module.exports = class FollowCommand extends BaseCommand {
             }};
 
 
-			if (message.member.roles.cache.has('825379709952065546')) {
+			if (message.member.roles.cache.has('827592691213795340')) {
                 if (args[1] > 2080) {
 				return message.channel.send({embed: {
 					color: 16776960,
@@ -64,7 +64,7 @@ module.exports = class FollowCommand extends BaseCommand {
             }};
 
 
-			if (message.member.roles.cache.has('826731987758219316')) {
+			if (message.member.roles.cache.has('827947712020086834')) {
                 if (args[1] > 750) {
 				return message.channel.send({embed: {
 					color: 16776960,
@@ -72,7 +72,7 @@ module.exports = class FollowCommand extends BaseCommand {
 				  }});
             }};
 
-			if (message.member.roles.cache.has('826125086892359760')) {
+			if (message.member.roles.cache.has('827592752610934804')) {
                 if (args[1] > 1180) {
 				return message.channel.send({embed: {
 					color: 16776960,
@@ -80,8 +80,8 @@ module.exports = class FollowCommand extends BaseCommand {
 				  }});
             }};
 
-            if (message.member.roles.cache.has('')) {
-                if (args[1] > 430) {
+            if (message.member.roles.cache.has('827592870167969832')) {
+                if (args[1] > 430) {ju
 				return message.channel.send({embed: {
                     color: 16776960,
                     description: "You can not use more than ``430`` followers with the **Gold** plan"
@@ -89,7 +89,7 @@ module.exports = class FollowCommand extends BaseCommand {
             }};       
 
             
-            if (message.member.roles.cache.has('821391872219021348')) {
+            if (message.member.roles.cache.has('827592806133661716')) {
                 if (args[1] > 70) {
 				return message.channel.send({embed: {
                     color: 16776960,
@@ -98,7 +98,7 @@ module.exports = class FollowCommand extends BaseCommand {
             }};
 
 
-			if (message.member.roles.cache.has('825065920975863859')) {
+			if (message.member.roles.cache.has('827592557231734835')) {
 			    if (args[1] > 250) {
 				return message.channel.send({embed: {
                     color: 16776960,
@@ -106,7 +106,7 @@ module.exports = class FollowCommand extends BaseCommand {
                   }});
             }};
 
-			if (message.member.roles.cache.has('824971060793180180')) {
+			if (message.member.roles.cache.has('827948058691764294')) {
 			    if (args[1] > 25) {
 				return message.channel.send({embed: {
                     color: 16776960,
